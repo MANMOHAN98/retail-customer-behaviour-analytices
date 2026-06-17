@@ -2,8 +2,7 @@
 
 An interactive, end-to-end data analytics and engineering portfolio platform simulating modern enterprise data workflows. This application acts as a sandbox for modeling shopper transactions, cleaning dirty schemas with Python/Pandas, performing relational query analysis with PostgreSQL CTEs & window functions, viewing live spreadsheet matrices, and examining dashboards in a Power BI styled container.
 
-🔗 **Production Live App:** [https://ai.studio/build](https://ai.studio/build)  
-👤 **Author Portfolio Showcase**  
+
 
 ---
 
